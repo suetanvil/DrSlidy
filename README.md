@@ -23,7 +23,7 @@ the site on port 8000:
 The default presentation is also the manual.  You can view it as:
 
 * [Presentation slides](http://suetanvil.github.io/DrSlidy)
-* [Speaker Notes](http://suetanvil.github.io/simple.html) (doubles as
+* [Speaker Notes](http://suetanvil.github.io/DrSlidy/simple.html) (doubles as
   a manual)
 * [Githubified presentation source](https://github.com/suetanvil/DrSlidy/blob/gh-pages/presentation.md).
 
